@@ -69,5 +69,12 @@
     "completed_at": 1786639948.098752,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786639987.849603,
+    "completed_at": 1786639989.401724,
+    "comments": [],
+    "status": "Completed"
   }
 ]
